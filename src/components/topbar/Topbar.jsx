@@ -9,7 +9,7 @@ export const Topbar = () => {
             <div className="container">
                 <div className="topbarWrapper">
                     <div className="topbarLeft">
-                        <span className="logo">Dear Penfriend</span>
+                        <span className="logo">D<span className="logo-word">ear</span> P<span className="logo-word">enfriend</span></span>
                     </div>
 
                     <div className="topbarCenter">

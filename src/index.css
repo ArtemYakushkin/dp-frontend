@@ -13,7 +13,7 @@ body {
 :root {
   --fw-light: 300;
   --fw-regular: 400;
-  --fw-medium-italic: 500;
+  --fw-medium: 500;
   --fw-bold: 700;
 }
 
@@ -35,10 +35,17 @@ h6 {
   margin: 0;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
 body {
+  --colors-title: #000000;
   --colors-text: #333333;
-  --colors-bg: #ff8c00;
-  --colors-section: #f2ff00;
+  --colors-bg: #ccff00;
+  --colors-section: #ffffff;
   --colors-input: #0084ff;
   --colors-btn: #4888a1;
 }
@@ -46,7 +53,7 @@ body {
 .container {
   max-width: 1440px;
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 0 10px;
 }
 
 /* body[data-theme='dark'] {
