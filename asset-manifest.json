@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/dp-frontend/static/css/main.7fed857a.css",
-    "main.js": "/dp-frontend/static/js/main.7decc030.js",
+    "main.css": "/dp-frontend/static/css/main.40b369d0.css",
+    "main.js": "/dp-frontend/static/js/main.152fa47f.js",
+    "static/media/iron_man.png": "/dp-frontend/static/media/iron_man.def4d382cd47eaa71bae.png",
     "static/media/uilson.jpg": "/dp-frontend/static/media/uilson.0fc99b86001af5f7b2d9.jpg",
     "static/media/vision.jpg": "/dp-frontend/static/media/vision.eb3b3de7d1b0509dccf8.jpg",
     "static/media/osa.jpg": "/dp-frontend/static/media/osa.100448822f1dbb3f1119.jpg",
@@ -21,11 +22,11 @@
     "static/media/fiyri-1.jpg": "/dp-frontend/static/media/fiyri-1.6cd65eb4782a8817b2f6.jpg",
     "static/media/kep-america.jpg": "/dp-frontend/static/media/kep-america.88617c5dc1158c6cc8e5.jpg",
     "index.html": "/dp-frontend/index.html",
-    "main.7fed857a.css.map": "/dp-frontend/static/css/main.7fed857a.css.map",
-    "main.7decc030.js.map": "/dp-frontend/static/js/main.7decc030.js.map"
+    "main.40b369d0.css.map": "/dp-frontend/static/css/main.40b369d0.css.map",
+    "main.152fa47f.js.map": "/dp-frontend/static/js/main.152fa47f.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fed857a.css",
-    "static/js/main.7decc030.js"
+    "static/css/main.40b369d0.css",
+    "static/js/main.152fa47f.js"
   ]
 }
