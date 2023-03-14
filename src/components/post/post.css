@@ -53,6 +53,7 @@
     display: flex;
     flex-direction: column;
     gap: 10px;
+    
 }
 
 .postTitle {
@@ -68,4 +69,35 @@
 .postText {
     font-size: 15px;
     font-weight: var(--fw-regular);
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+}
+
+.postBottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+
+.postBottomLeft {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.postLikeText {
+    font-size: 12px;
+    font-weight: var(--fw-regular);
+    color: var(--colors-text);
+}
+
+.postCommentText {
+    font-size: 12px;
+    font-weight: var(--fw-regular);
+    color: var(--colors-text);
+    cursor: pointer;
+    border-bottom: 1px solid var(--colors-text);
 }

@@ -1,0 +1,11 @@
+.rightbar {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.rightbarAd {
+    width: 100%;
+    border-radius: 10px;
+}
+
