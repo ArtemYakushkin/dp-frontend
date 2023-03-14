@@ -1,32 +1,13 @@
 {
   "files": {
-    "main.css": "/dp-frontend/static/css/main.40b369d0.css",
-    "main.js": "/dp-frontend/static/js/main.152fa47f.js",
-    "static/media/iron_man.png": "/dp-frontend/static/media/iron_man.def4d382cd47eaa71bae.png",
-    "static/media/uilson.jpg": "/dp-frontend/static/media/uilson.0fc99b86001af5f7b2d9.jpg",
-    "static/media/vision.jpg": "/dp-frontend/static/media/vision.eb3b3de7d1b0509dccf8.jpg",
-    "static/media/osa.jpg": "/dp-frontend/static/media/osa.100448822f1dbb3f1119.jpg",
-    "static/media/roudi.jpg": "/dp-frontend/static/media/roudi.48ff74ce02d95e771a3c.jpg",
-    "static/media/kapitan.jpg": "/dp-frontend/static/media/kapitan.ef05cd126151c3c6647e.jpg",
-    "static/media/vanda.jpg": "/dp-frontend/static/media/vanda.543c1ae317453e88751d.jpg",
-    "static/media/strendzh.jpg": "/dp-frontend/static/media/strendzh.ed5b9b4e02a9f702bda7.jpg",
-    "static/media/chelovek-pauk.jpg": "/dp-frontend/static/media/chelovek-pauk.197c331a5eddfc37c142.jpg",
-    "static/media/leng.jpg": "/dp-frontend/static/media/leng.6b88dbc00af23f8d2fc4.jpg",
-    "static/media/benner.jpg": "/dp-frontend/static/media/benner.f39c9664a07215cb6722.jpg",
-    "static/media/barton.jpg": "/dp-frontend/static/media/barton.31bc9d5c9ac61115989e.jpg",
-    "static/media/tor.jpg": "/dp-frontend/static/media/tor.17e8e615d9cb4221aa73.jpg",
-    "static/media/vdova.jpg": "/dp-frontend/static/media/vdova.60f4076aeb58f0d59551.jpg",
-    "static/media/tchalla.jpg": "/dp-frontend/static/media/tchalla.4cc4c6996d06a19e2857.jpg",
-    "static/media/stark.jpg": "/dp-frontend/static/media/stark.f5b9e595ee1c2f320542.jpg",
-    "static/media/baki.jpg": "/dp-frontend/static/media/baki.78b27a2915ba05351cfa.jpg",
-    "static/media/fiyri-1.jpg": "/dp-frontend/static/media/fiyri-1.6cd65eb4782a8817b2f6.jpg",
-    "static/media/kep-america.jpg": "/dp-frontend/static/media/kep-america.88617c5dc1158c6cc8e5.jpg",
+    "main.css": "/dp-frontend/static/css/main.3a385d99.css",
+    "main.js": "/dp-frontend/static/js/main.0868d980.js",
     "index.html": "/dp-frontend/index.html",
-    "main.40b369d0.css.map": "/dp-frontend/static/css/main.40b369d0.css.map",
-    "main.152fa47f.js.map": "/dp-frontend/static/js/main.152fa47f.js.map"
+    "main.3a385d99.css.map": "/dp-frontend/static/css/main.3a385d99.css.map",
+    "main.0868d980.js.map": "/dp-frontend/static/js/main.0868d980.js.map"
   },
   "entrypoints": [
-    "static/css/main.40b369d0.css",
-    "static/js/main.152fa47f.js"
+    "static/css/main.3a385d99.css",
+    "static/js/main.0868d980.js"
   ]
 }
